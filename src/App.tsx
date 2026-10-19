@@ -117,9 +117,8 @@ export const App: React.FC = () => {
       {/* 1. Full-Screen Repeating Kinetic Typography Mesh (11 Rows, Alternating Directions) */}
       <TypographyMesh />
 
-      {/* 2. Protective Radial Vignette & Micro Dot Grid Overlays */}
+      {/* 2. Protective Radial Vignette Overlay */}
       <div className="radial-overlay" aria-hidden="true" />
-      <div className="dot-grid-overlay" aria-hidden="true" />
 
       {/* 3. Centered Linktree Profile Container (~440px wide) */}
       <main className="linktree-container">
