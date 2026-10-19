@@ -31,4 +31,4 @@ Designed for deployment on [Vercel](https://vercel.com/).
 ---
 
 **Matrix Club, VIT Bhopal**  
-*The Pulse of Innovation. The Community of Tomorrow.*
+
